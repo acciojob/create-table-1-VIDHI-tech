@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.table-row {
+    border: 1px solid black !important;
+	
+}
+#sampleTable tr {
+    height: 30px; /* Adjust the height value to match the desired height */
+}
+
